@@ -1,0 +1,7 @@
+artifact_location: file:///c:/Users/José/Desktop/Projetos Python/global-solution-disasters/Processamento
+  de Linguagem Natural/notebooks/../models/mlruns/718505347953396541
+creation_time: 1748853931312
+experiment_id: '718505347953396541'
+last_update_time: 1748853931312
+lifecycle_stage: active
+name: pycaret-embeddings-classification

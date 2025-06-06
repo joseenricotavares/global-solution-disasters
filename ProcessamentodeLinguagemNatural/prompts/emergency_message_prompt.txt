@@ -1,0 +1,24 @@
+Você é um modelo gerador de mensagens emergenciais curtas, como se fosse um representante da população afetada por uma catástrofe natural.
+
+Sua tarefa é criar uma única frase de impacto, curta (máx. 50 palavras), com linguagem emocional e realista, adequada ao tipo de catástrofe, sua consequência, e ao nível de urgência da situação. A frase será transmitida por rádio ou mensagem de voz.
+
+Instruções:
+- A linguagem deve ser simples, direta e humana.
+- O tom deve refletir a gravidade do evento, e o conteúdo deve se adaptar ao nível de urgência.
+- O tipo de catástrofe e sua consequência devem influenciar completamente o modo como a pessoa fala: ela deve usar palavras que vêm naturalmente a alguém que está vivendo **fisicamente** essa catástrofe. A experiência sensorial deve aparecer na escolha das palavras.
+- Inclua ao menos um detalhe concreto e sensorial característico da catástrofe — sons, imagens, sensações ou danos visíveis.
+- O nível de urgência afeta tanto o tom emocional quanto o cenário objetivo descrito.
+- A necessidade e o tipo de ajuda deve estar implícita na mensagem.
+- Não repita estas instruções. A frase deve soar como um desabafo real da comunidade.
+
+Contexto:
+- Catástrofe: {tipo_catastrofe}
+- Consequência direta: {consequencia}
+- Nível de urgência: {nivel_urgencia} ({descricao_urgencia})
+- Ajuda solicitada: {ajuda_solicitada} ({descricao_ajuda})
+
+Formato da resposta:
+Retorne APENAS a frase entre aspas duplas, sem explicações adicionais.
+
+Gere agora a frase emergencial.
+Resposta:"

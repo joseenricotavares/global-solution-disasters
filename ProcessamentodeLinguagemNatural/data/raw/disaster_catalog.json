@@ -1,0 +1,125 @@
+[
+  {
+    "classe": "Evento Geodinâmico Extremo",
+    "tipos": [
+      {
+        "nome": "Terremoto",
+        "consequencias": [
+          "Rachaduras extensas e profundas em fundações e estruturas de concreto armado, comprometendo a integridade dos edifícios.",
+          "Danos catastróficos em redes de distribuição elétrica e gasodutos, provocando incêndios secundários e explosões.",
+          "Colapso de pontes e viadutos devido à movimentação brusca do solo e liquefação de solos arenosos.",
+          "Deslocamento horizontal do solo que causa a ruptura de linhas férreas e deformação das estradas asfaltadas."
+        ]
+      },
+      {
+        "nome": "Erupção vulcânica",
+        "consequencias": [
+          "Deposição espessa de cinzas vulcânicas que colapsam telhados e contaminam sistemas de água potável.",
+          "Emissão de gases tóxicos como dióxido de enxofre e monóxido de carbono, provocando acidificação do solo e impactos na saúde respiratória da população.",
+          "Lahares (fluxos de lama vulcânica) que entopem vales e barragens, causando enchentes e soterramento de vilarejos.",
+          "Interrupção prolongada de rotas de transporte aéreo e terrestre devido à nuvem de cinzas."
+        ]
+      },
+      {
+        "nome": "Deslizamento de terra",
+        "consequencias": [
+          "Massa de solo e rocha deslizando rapidamente que enterra construções e infraestruturas rodoviárias.",
+          "Bloqueio de cursos d’água, gerando represamentos e potencial enchente a jusante.",
+          "Destruição de redes de saneamento básico e linhas de transmissão elétrica, isolando comunidades afetadas.",
+          "Formação de crateras e superfícies instáveis que impedem o uso da área afetada por longos períodos."
+        ]
+      },
+      {
+        "nome": "Avalanche",
+        "consequencias": [
+          "Massa de neve compactada avançando em alta velocidade destruindo florestas e estruturas alpinas.",
+          "Soterramento de pessoas e veículos, com grandes dificuldades para resgate devido ao volume e densidade do material.",
+          "Danos severos a redes elétricas e instalações de telecomunicação em áreas montanhosas.",
+          "Bloqueio de vales e estradas, isolando regiões inteiras durante semanas."
+        ]
+      }
+    ]
+  },
+  {
+    "classe": "Evento Atmosférico Extremo",
+    "tipos": [
+      {
+        "nome": "Ciclone tropical",
+        "consequencias": [
+          "Ventania sustentada acima de 150 km/h destruindo coberturas e colapsando estruturas frágeis.",
+          "Inundações costeiras causadas por tempestades e elevação do nível do mar (maré de tempestade) devastando áreas urbanas litorâneas.",
+          "Destruição de plantações e florestas por ação combinada de ventos e precipitação intensa.",
+          "Interrupção de serviços essenciais, como eletricidade e comunicações, devido à queda de postes e antenas."
+        ]
+      },
+      {
+        "nome": "Tornado",
+        "consequencias": [
+          "Rajadas concentradas de vento superiores a 300 km/h arrancando telhados, janelas e veículos do chão.",
+          "Lançamento de detritos pesados a grandes distâncias causando ferimentos graves e mortes.",
+          "Colapso de estruturas metálicas e de madeira em áreas urbanas e rurais.",
+          "Interrupção total da rede elétrica local devido a cabos rompidos e postes derrubados."
+        ]
+      },
+      {
+        "nome": "Tempestade severa",
+        "consequencias": [
+          "Quedas maciças de árvores e destelhamentos devido a ventos fortes e rajadas associadas.",
+          "Interferência no tráfego aéreo e terrestre por causa da baixa visibilidade e estradas escorregadias.",
+          "Riscos aumentados de acidentes elétricos devido a cabos expostos e equipamentos danificados.",
+          "Interrupção temporária dos serviços de emergência e comunicação."
+        ]
+      },
+      {
+        "nome": "Granizo intenso",
+        "consequencias": [
+          "Danos severos a telhados, vidros de edifícios e veículos, com perfurações profundas nas superfícies expostas.",
+          "Interrupção do tráfego rodoviário e aéreo devido à formação de camadas espessas no solo e pistas.",
+          "Ferimentos em pessoas expostas ao ar livre, incluindo contusões e lacerações.",
+          "Danos em redes elétricas e linhas de telecomunicação causados pela queda de detritos danificados."
+        ]
+      }
+    ]
+  },
+  {
+    "classe": "Evento Hidrológico Extremo",
+    "tipos": [
+      {
+        "nome": "Tsunami",
+        "consequencias": [
+          "Ondas de dezenas de metros de altura invadindo áreas costeiras e destruindo infraestrutura urbana e portuária.",
+          "Corrosão severa das fundações de edifícios devido à exposição prolongada à água salgada e detritos marinhos.",
+          "Destruição de ecossistemas costeiros, incluindo manguezais e recifes de coral, afetando biodiversidade local.",
+          "Interrupção das redes de abastecimento de água e energia por danos em instalações costeiras."
+        ]
+      },
+      {
+        "nome": "Inundação fluvial",
+        "consequencias": [
+          "Transbordamento prolongado dos rios causando alagamento extensivo em áreas agrícolas e urbanas próximas.",
+          "Saturação do solo e perda de produtividade agrícola devido à deposição de sedimentos e contaminantes.",
+          "Contaminação da água potável por resíduos industriais e esgoto durante a cheia.",
+          "Danos estruturais a pontes e barragens, ameaçando a segurança regional."
+        ]
+      },
+      {
+        "nome": "Enchente urbana",
+        "consequencias": [
+          "Acúmulo rápido de água nas vias públicas, dificultando a circulação de veículos e pedestres.",
+          "Falhas nos sistemas de drenagem urbana por obstruções e excesso de volume, ampliando o alagamento.",
+          "Riscos aumentados de doenças transmissíveis por água contaminada, como leptospirose e hepatite.",
+          "Danos a veículos estacionados e infraestruturas subterrâneas, como redes elétricas e de telecomunicações."
+        ]
+      },
+      {
+        "nome": "Transbordamento de barragem",
+        "consequencias": [
+          "Liberação súbita e descontrolada de grandes volumes de água e detritos, provocando enxurradas destrutivas a jusante.",
+          "Soterramento de comunidades e infraestruturas locais, com perdas humanas e materiais significativas.",
+          "Contaminação das fontes de água por materiais tóxicos e resíduos industriais presentes na barragem.",
+          "Colapso de rodovias e pontes na área afetada, dificultando o acesso e o socorro emergencial."
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+{
+    "Disaster Subtype": [
+        "Flood (General)",
+        "Riverine flood",
+        "Flash flood",
+        "Heat wave",
+        "Tropical cyclone",
+        "Blizzard/Winter storm",
+        "Landslide (wet)",
+        "Viral disease",
+        "Cold wave",
+        "Ground movement",
+        "Tornado",
+        "Severe weather",
+        "Drought",
+        "Ash fall",
+        "Lightning/Thunderstorms",
+        "Bacterial disease",
+        "Forest fire",
+        "Extra-tropical storm",
+        "Storm (General)"
+    ],
+    "Subregion": [
+        "Sub-Saharan Africa",
+        "South-eastern Asia",
+        "Eastern Europe",
+        "Western Asia",
+        "Central Asia",
+        "Latin America and the Caribbean",
+        "Southern Europe",
+        "Northern America",
+        "Western Europe",
+        "Southern Asia",
+        "Eastern Asia",
+        "Northern Europe",
+        "Northern Africa",
+        "Micronesia",
+        "Australia and New Zealand",
+        "Polynesia",
+        "Melanesia"
+    ]
+}

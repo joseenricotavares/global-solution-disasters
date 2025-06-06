@@ -1,0 +1,11 @@
+# Minimal requirements to run the app.py
+
+streamlit==1.45.1
+pandas==2.1.4
+numpy==1.26.4
+joblib==1.3.2
+spacy==3.8.7
+sentence_transformers==4.1.0
+streamlit-option-menu==0.4.0
+altair==5.5.0
+pycaret==3.3.2

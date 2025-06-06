@@ -1,0 +1,93 @@
+[
+    {
+        "ajuda_solicitada": "Informações gerais",
+        "descricao_ajuda": "Solicitação de informações, atualizações, orientações, localização de abrigos e familiares",
+        "descricao_urgencia": "Situação informativa sem risco imediato à integridade das pessoas",
+        "nivel_urgencia": "Muito baixa"
+    },
+
+    {
+        "ajuda_solicitada": "Suprimentos não vitais",
+        "descricao_ajuda": "Falta de alimentos não perecíveis, roupas, itens de higiene pessoal",
+        "descricao_urgencia": "Falta de itens importantes, mas não essenciais para a sobrevivência imediata",
+        "nivel_urgencia": "Muito baixa"
+    },
+    {
+        "ajuda_solicitada": "Apoio psicológico",
+        "descricao_ajuda": "Necessidade de escuta, acolhimento emocional ou suporte mental diante do trauma",
+        "descricao_urgencia": "Importante para o bem-estar, mas sem ameaça física ou risco imediato",
+        "nivel_urgencia": "Muito baixa"
+    },
+    {
+        "ajuda_solicitada": "Serviços públicos interrompidos",
+        "descricao_ajuda": "Falta de energia, água potável, gás, coleta de lixo",
+        "descricao_urgencia": "Impacta o cotidiano e a saúde pública com o tempo, mas sem urgência imediata",
+        "nivel_urgencia": "Baixa"
+    },
+    {
+        "ajuda_solicitada": "Evacuação preventiva",
+        "descricao_ajuda": "Pessoas isoladas, mas ainda em segurança, pedindo retirada antes que a situação piore",
+        "descricao_urgencia": "Pode evoluir para um risco maior; ação preventiva recomendada",
+        "nivel_urgencia": "Baixa"
+    },
+    {
+        "ajuda_solicitada": "Apoio a pessoas com mobilidade reduzida",
+        "descricao_ajuda": "Pessoas com dificuldade de locomoção em locais ainda seguros",
+        "descricao_urgencia": "Mobilidade limitada pode dificultar evacuação ou cuidados posteriores",
+        "nivel_urgencia": "Baixa"
+    },
+    {
+        "ajuda_solicitada": "Necessidade de medicamentos essenciais",
+        "descricao_ajuda": "Pessoas com doenças crônicas sem acesso a medicação essencial",
+        "descricao_urgencia": "Pode evoluir para situação crítica caso o medicamento continue inacessível",
+        "nivel_urgencia": "Moderada"
+    },
+    {
+        "ajuda_solicitada": "Desabrigado em risco moderado",
+        "descricao_ajuda": "Pessoas sem abrigo, expostas ao clima, mas não feridas",
+        "descricao_urgencia": "Situação desconfortável com risco à saúde prolongada",
+        "nivel_urgencia": "Moderada"
+    },
+    {
+        "ajuda_solicitada": "Atendimento a ferimentos leves ou moderados",
+        "descricao_ajuda": "Cortes, fraturas simples, queimaduras leves",
+        "descricao_urgencia": "Necessita atenção médica, mas sem risco de morte iminente",
+        "nivel_urgencia": "Moderada"
+    },
+    {
+        "ajuda_solicitada": "Pessoa presa, mas estável",
+        "descricao_ajuda": "Presas em escombros ou locais isolados, porém conscientes e sem ferimentos graves",
+        "descricao_urgencia": "Impedidas de se mover, mas sem risco imediato de morte",
+        "nivel_urgencia": "Alta"
+    },
+    {
+        "ajuda_solicitada": "Vulneráveis em risco ambiental grave",
+        "descricao_ajuda": "Crianças, gestantes ou idosos expostos ao frio, à fome ou ameaças iminentes",
+        "descricao_urgencia": "Pessoas com maior sensibilidade em situações de risco ambiental severo",
+        "nivel_urgencia": "Alta"
+    },
+    {
+        "ajuda_solicitada": "Busca por desaparecidos em áreas de risco",
+        "descricao_ajuda": "Suposição de que possam estar presas ou inconscientes em locais críticos",
+        "descricao_urgencia": "Situação potencialmente grave envolvendo risco de morte",
+        "nivel_urgencia": "Alta"
+    },
+    {
+        "ajuda_solicitada": "Ferimentos graves",
+        "descricao_ajuda": "Hemorragias, fraturas expostas, perda de consciência, queimaduras severas",
+        "descricao_urgencia": "Urgência médica com risco iminente de agravamento ou morte",
+        "nivel_urgencia": "Crítica"
+    },
+    {
+        "ajuda_solicitada": "Emergência médica com risco imediato",
+        "descricao_ajuda": "Infarto, AVC, parada respiratória, parto de alto risco",
+        "descricao_urgencia": "Situação crítica que exige resposta imediata para salvar vidas",
+        "nivel_urgencia": "Crítica"
+    },
+    {
+        "ajuda_solicitada": "Ameaça direta à vida",
+        "descricao_ajuda": "Pessoas soterradas, afogando-se, cercadas por fogo, etc.",
+        "descricao_urgencia": "Risco imediato e direto de morte se não houver intervenção urgente",
+        "nivel_urgencia": "Crítica"
+    }
+]

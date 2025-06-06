@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/José/Desktop/Projetos Python/global-solution-disasters/Processamento
+  de Linguagem Natural/notebooks/../models/mlruns/718505347953396541/4aa9b667d31c4dd8b5dd33ba379c1d44/artifacts
+end_time: 1748854341219
+entry_point_name: ''
+experiment_id: '718505347953396541'
+lifecycle_stage: active
+run_id: 4aa9b667d31c4dd8b5dd33ba379c1d44
+run_name: pycaret-embeddings-classification-dfa3d4d5-ce43-4ec4-9610-fa22922f51db
+run_uuid: 4aa9b667d31c4dd8b5dd33ba379c1d44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748854334573
+status: 3
+tags: []
+user_id: José
